@@ -4,4 +4,4 @@ Inspired by [Traversy Media on Youtube](https://www.youtube.com/watch?v=PEcJxkyl
 
 GraphQL example with axios requesting from json server.
 
-[Kam Curacha](https://curacha.me)
+[Kam Curacha](https://kamcuracha.com)
